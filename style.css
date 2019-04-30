@@ -1,0 +1,11 @@
+body {
+	background-image: url(palette.jpg);
+	background-size: cover;
+	background-color: opacity: .2;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Merienda';font-size: 22px;
+}
+}
